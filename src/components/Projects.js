@@ -14,7 +14,7 @@ function Projects() {
       mission:
         "Full-stack development, real-time data handling, security implementation",
       language: "React, Node.js, Socket.IO, MongoDB, JWT for authentication",
-      images: "/project1.PNG",
+      images: "/project1.png",
     },
     {
       name: "E-commerce Platform",
@@ -23,7 +23,7 @@ function Projects() {
         "Front-end development, back-end API design, database modeling, third-party integrations",
       language:
         "Next.js, Express.js, PostgreSQL, Stripe API, Redux for state management",
-      images: "/project2.PNG",
+      images: "/project2.png",
     },
     {
       name: "Data Visualization Dashboard",
@@ -31,7 +31,7 @@ function Projects() {
       mission:
         "Front-end development, data processing, performance optimization",
       language: "Vue.js, D3.js, Node.js, Express.js, MongoDB for data storage",
-      images: "/project3.PNG",
+      images: "/project3.png",
     },
   ]);
   const divs = useRef([]);
